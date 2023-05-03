@@ -1,9 +1,9 @@
 import Link from 'next/link';
 
-export default function Employee() {
+export default function Employer() {
     return (
         <>
-            <h1>Why Korea?</h1>
+            <h1>Why</h1>
             <p></p>
             <h1>Who</h1>
             <h1>How</h1>
